@@ -64,15 +64,10 @@ Goalkeepers are classified almost perfectly by every model (their stats are just
 
 ## Installation & Usage
 
-Clone or download this project, then install the dependencies:
-
 ```bash
+git clone https://github.com/wtf-amnn/football-player-position-classifier.git
+cd football-player-position-classifier
 pip install -r requirements.txt
-```
-
-Make sure `FC26_20250921.csv` is in the same folder as the notebook, then launch it:
-
-```bash
 jupyter notebook FootballPlayerClassification.ipynb
 ```
 
